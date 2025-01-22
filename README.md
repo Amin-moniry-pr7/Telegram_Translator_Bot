@@ -96,3 +96,7 @@ Use .env files and .gitignore for better security.
 Contributing
 
 Feel free to open issues or submit pull requests to improve the bot.
+
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+

@@ -3,15 +3,16 @@
 A Telegram bot that translates text between 9 languages:
 
 ## Languages Supported:
-- 🇺🇸 English
-- 🇮🇷 Persian
-- 🇫🇷 French
-- 🇰🇷 Korean
-- 🇪🇸 Spanish
-- 🇸🇪 Swedish
-- 🇨🇳 Chinese
-- 🇹🇷 Turkish
-- 🇸🇦 Arabic
+- 🇺🇸 **United States (English)**
+- 🇮🇷 **Iran (Persian)**
+- 🇫🇷 **France (French)**
+- 🇰🇷 **South Korea (Korean)**
+- 🇪🇸 **Spain (Spanish)**
+- 🇸🇪 **Sweden (Swedish)**
+- 🇨🇳 **China (Chinese)**
+- 🇹🇷 **Turkey (Turkish)**
+- 🇸🇦 **Saudi Arabia (Arabic)**
+
 
 ## Features:
 - Auto language detection

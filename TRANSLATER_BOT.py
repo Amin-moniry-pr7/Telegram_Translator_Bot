@@ -99,7 +99,7 @@ def receive_text_to_translate(message):
         except Exception as e:
             bot.reply_to(message, f"❗️ An error occurred: {str(e)}")
     else:
-        bot.reply_to(message, "⚠️ Please send a valid text to translate.")
+        bot.reply_to(message, "⚠️ Please send a valid text to translate! ")
 
 
 @bot.message_handler(func=lambda message: message.chat.id not in user_data)

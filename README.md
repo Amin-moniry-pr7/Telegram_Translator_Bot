@@ -1,6 +1,6 @@
 # Translate_BOT - Telegram Translation Bot 🌍
 
-A Telegram bot that translates text between 9 languages:
+A Telegram bot that translates text between  9 languages:
 
 ## Languages Supported:
 - 🇺🇸 **United States (English)**
